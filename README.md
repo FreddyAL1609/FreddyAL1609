@@ -3,4 +3,5 @@ Soy un desarrollador backend junior. Me gusta crear aplicaciones web rápidas co
 
 ## Puedes encontrarme en:
 
-- [LinkedIn](https://www.linkedin.com/in/freddy-cruz-chinguel-1055061aa//)
+- [LinkedIn](https://www.linkedin.com/in/freddy-cruz-chinguel-1055061aa)
+- [Twitter](https://twitter.com/FreddyChinguel)
